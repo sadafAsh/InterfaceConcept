@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.soj.interfac.simple.RectangleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-28T16:33:09" hostname="DESKTOP-H3C67DB" time="0.002">
+<testsuite name="com.soj.interfac.simple.RectangleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-28T16:43:39" hostname="DESKTOP-H3C67DB" time="0.002">
   <properties/>
   <testcase name="testDraw()" classname="com.soj.interfac.simple.RectangleTest" time="0.001"/>
-  <testcase name="testDrawFail()" classname="com.soj.interfac.simple.RectangleTest" time="0.0"/>
+  <testcase name="testDrawFail()" classname="com.soj.interfac.simple.RectangleTest" time="0.001"/>
   <system-out><![CDATA[Shape is Rectangle.....
 Shape is Rectangle.....
 ]]></system-out>
