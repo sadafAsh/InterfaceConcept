@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.soj.interfac.statictest.SquareTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-28T16:33:09" hostname="DESKTOP-H3C67DB" time="0.004">
+  <properties/>
+  <testcase name="testForDrawing()" classname="com.soj.interfac.statictest.SquareTest" time="0.001"/>
+  <testcase name="failforDrawing()" classname="com.soj.interfac.statictest.SquareTest" time="0.001"/>
+  <testcase name="testForStaticFailed()" classname="com.soj.interfac.statictest.SquareTest" time="0.001"/>
+  <testcase name="testForStatic()" classname="com.soj.interfac.statictest.SquareTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
