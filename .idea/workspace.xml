@@ -2,94 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16d9a26d-e8f0-4754-bee5-908f75b7fd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/interfac/multiple/AnimalEat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/interfac/multiple/AnimalTravel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/interfac/simple/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/interfac/simple/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soj/interfac/simple/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soj/interfac/simple/BicycleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/soj/interfac/simple/BikeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/multiple/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/multiple/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/multiple/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/multiple/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/simple/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/simple/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/simple/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/staticinterface/Drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/staticinterface/Drawable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/staticinterface/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/soj/interfac/staticinterface/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/soj/interfac/multiple/AnimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/soj/interfac/multiple/AnimalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/soj/interfac/simple/CircleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/soj/interfac/simple/RectangleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/soj/interfac/statictest/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/soj/interfac/statictest/SquareTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jacoco/test.exec" beforeDir="false" afterPath="$PROJECT_DIR$/build/jacoco/test.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/InterfaceConcept-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/InterfaceConcept-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.multiple/Animal.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.multiple/Animal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.multiple/Animal.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.multiple/Animal.java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.multiple/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.multiple/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.multiple/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.multiple/index.source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/Circle.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/Circle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/Circle.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/Circle.java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/Rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/Rectangle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/Rectangle.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/Rectangle.java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.simple/index.source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/Drawable.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/Drawable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/Drawable.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/Drawable.java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/Square.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/Square.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/Square.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/Square.java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac.staticinterface/index.source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac/Main.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac/Main.java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/com.soj.interfac/index.source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/jacoco/test/html/jacoco-sessions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.interfac.multiple.AnimalTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.interfac.multiple.AnimalTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.interfac.simple.CircleTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.interfac.simple.RectangleTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.interfac.statictest.SquareTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.soj.interfac.statictest.SquareTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.interfac.multiple.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.interfac.multiple.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.interfac.simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.interfac.simple.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.interfac.statictest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.soj.interfac.statictest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.interfac.multiple.AnimalTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.interfac.multiple.AnimalTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.interfac.simple.CircleTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.interfac.simple.RectangleTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.interfac.statictest.SquareTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.soj.interfac.statictest.SquareTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/interfac/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soj/interfac/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/interfac/multiple/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soj/interfac/multiple/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/interfac/multiple/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/interfac/multiple/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/interfac/simple/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/interfac/simple/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/interfac/simple/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/interfac/staticinterface/Drawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soj/interfac/staticinterface/Drawable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/interfac/staticinterface/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soj/interfac/staticinterface/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/soj/interfac/multiple/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/soj/interfac/multiple/AnimalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/soj/interfac/simple/CircleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/soj/interfac/simple/RectangleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/soj/interfac/statictest/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/soj/interfac/staticTest/SquareTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,53 +108,19 @@
       <recent name="C:\sadaf\InterfaceConcept\src\main\java\com\soj\interfac\multiple" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.InterfaceConcept [build]">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="sonarqube" />
+      <command value="gradle sonarqube    -Dsonar.projectKey=Interface    -Dsonar.host.url=http://localhost:9000    -Dsonar.login=8d4f8818e76c4f0744c9ad0ec5422d00c133bd44" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.InterfaceConcept [sonarqube]">
     <configuration name="BicycleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;com.soj.interfac.simple.BicycleTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="BikeTest.testOfBikeInChangingGear" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.soj.interfac.simple.BikeTest.testOfBikeInChangingGear&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="BikeTest.testOfBikespeedDecreament" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.soj.interfac.simple.BikeTest.testOfBikespeedDecreament&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -268,6 +155,25 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="InterfaceConcept [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="InterfaceConcept [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -287,13 +193,32 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="InterfaceConcept [sonarqube]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="sonarqube" />
+          </list>
+        </option>
+        <option name="vmOptions" value="-Dsonar.projectKey=Interface -Dsonar.host.url=http://localhost:9000 -Dsonar.login=8d4f8818e76c4f0744c9ad0ec5422d00c133bd44" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.InterfaceConcept [sonarqube]" />
         <item itemvalue="Gradle.InterfaceConcept [build]" />
+        <item itemvalue="Gradle.InterfaceConcept [buildDependents]" />
         <item itemvalue="Gradle.BicycleTest" />
         <item itemvalue="Gradle.BikeTest.toStringReturnAStringAsFailed" />
-        <item itemvalue="Gradle.BikeTest.testOfBikespeedDecreament" />
-        <item itemvalue="Gradle.BikeTest.testOfBikeInChangingGear" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643388251550</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="completed">
+      <created>1643722543690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643722543690</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -352,51 +284,56 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="75" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.720@0.0.1368.720" timestamp="1643661100528" />
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1643388251100">
-      <screen x="0" y="0" width="1368" height="720" />
+    <state x="491" y="0" key="CommitChangelistDialog2" timestamp="1643722541428">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="350" y="0" key="CommitChangelistDialog2/0.0.1368.720@0.0.1368.720" timestamp="1643388251100" />
+    <state x="491" y="0" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1643722541428" />
     <state x="527" y="165" key="FileChooserDialogImpl" timestamp="1643620114275">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="527" y="165" key="FileChooserDialogImpl/0.0.1368.720@0.0.1368.720" timestamp="1643620114275" />
     <state x="740" y="236" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1643455181080" />
-    <state width="1877" height="298" key="GridCell.Tab.0.bottom" timestamp="1643722514755">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1325" height="298" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1643672507145" />
-    <state width="1877" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1643722514755" />
-    <state width="1877" height="298" key="GridCell.Tab.0.center" timestamp="1643722514755">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1325" height="298" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1643672507145" />
-    <state width="1877" height="298" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1643722514755" />
-    <state width="1877" height="298" key="GridCell.Tab.0.left" timestamp="1643722514755">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1325" height="298" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1643672507145" />
-    <state width="1877" height="298" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1643722514755" />
-    <state width="1877" height="298" key="GridCell.Tab.0.right" timestamp="1643722514755">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1325" height="298" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1643672507145" />
-    <state width="1877" height="298" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1643722514755" />
-    <state width="1325" height="220" key="GridCell.Tab.1.bottom" timestamp="1643664766824">
+    <state width="662" height="224" key="GridCell.Tab.0.bottom" timestamp="1643739292832">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="220" key="GridCell.Tab.1.bottom/0.0.1368.720@0.0.1368.720" timestamp="1643664766824" />
-    <state width="1325" height="220" key="GridCell.Tab.1.center" timestamp="1643664766824">
+    <state width="662" height="224" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1643739292832" />
+    <state width="1877" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1643726809710" />
+    <state width="662" height="224" key="GridCell.Tab.0.center" timestamp="1643739292832">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="220" key="GridCell.Tab.1.center/0.0.1368.720@0.0.1368.720" timestamp="1643664766824" />
-    <state width="1325" height="220" key="GridCell.Tab.1.left" timestamp="1643664766824">
+    <state width="662" height="224" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1643739292832" />
+    <state width="1877" height="298" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1643726809709" />
+    <state width="662" height="224" key="GridCell.Tab.0.left" timestamp="1643739292832">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="220" key="GridCell.Tab.1.left/0.0.1368.720@0.0.1368.720" timestamp="1643664766824" />
-    <state width="1325" height="220" key="GridCell.Tab.1.right" timestamp="1643664766824">
+    <state width="662" height="224" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1643739292832" />
+    <state width="1877" height="298" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1643726809709" />
+    <state width="662" height="224" key="GridCell.Tab.0.right" timestamp="1643739292832">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="1325" height="220" key="GridCell.Tab.1.right/0.0.1368.720@0.0.1368.720" timestamp="1643664766824" />
+    <state width="662" height="224" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1643739292832" />
+    <state width="1877" height="298" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1643726809709" />
+    <state width="662" height="219" key="GridCell.Tab.1.bottom" timestamp="1643739272846">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="662" height="219" key="GridCell.Tab.1.bottom/0.0.1368.720@0.0.1368.720" timestamp="1643739272846" />
+    <state width="862" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1643725423820" />
+    <state width="662" height="219" key="GridCell.Tab.1.center" timestamp="1643739272846">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="662" height="219" key="GridCell.Tab.1.center/0.0.1368.720@0.0.1368.720" timestamp="1643739272846" />
+    <state width="862" height="344" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1643725423820" />
+    <state width="662" height="219" key="GridCell.Tab.1.left" timestamp="1643739272846">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="662" height="219" key="GridCell.Tab.1.left/0.0.1368.720@0.0.1368.720" timestamp="1643739272846" />
+    <state width="862" height="344" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1643725423820" />
+    <state width="662" height="219" key="GridCell.Tab.1.right" timestamp="1643739272846">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="662" height="219" key="GridCell.Tab.1.right/0.0.1368.720@0.0.1368.720" timestamp="1643739272846" />
+    <state width="862" height="344" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1643725423820" />
     <state x="627" y="220" key="NewModule_or_Project.wizard" timestamp="1643455183765">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -405,10 +342,11 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="187" y="5" key="SettingsEditor/0.0.1368.720@0.0.1368.720" timestamp="1643381967011" />
-    <state x="276" y="95" key="Vcs.Push.Dialog.v2" timestamp="1643388261730">
-      <screen x="0" y="0" width="1368" height="720" />
+    <state x="387" y="136" key="Vcs.Push.Dialog.v2" timestamp="1643722549123">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="276" y="95" key="Vcs.Push.Dialog.v2/0.0.1368.720@0.0.1368.720" timestamp="1643388261730" />
+    <state x="387" y="136" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1643722549123" />
     <state x="668" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1643721757582">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -417,10 +355,15 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="455" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.720@0.0.1368.720" timestamp="1643675564642" />
-    <state x="392" y="163" key="git4idea.merge.GitPullDialog" timestamp="1643388410053">
-      <screen x="0" y="0" width="1368" height="720" />
+    <state x="550" y="234" key="git4idea.merge.GitPullDialog" timestamp="1643722564600">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="392" y="163" key="git4idea.merge.GitPullDialog/0.0.1368.720@0.0.1368.720" timestamp="1643388410053" />
+    <state x="550" y="234" key="git4idea.merge.GitPullDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1643722564600" />
+    <state x="616" y="238" width="672" height="677" key="run.anything.popup" timestamp="1643725446575">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" width="672" height="677" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1643725446575" />
     <state x="347" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1643387079824">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
