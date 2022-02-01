@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.soj.interfac.simple.BikeTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-02-01T13:25:48" hostname="DESKTOP-H3C67DB" time="0.004">
+  <properties/>
+  <testcase name="toStringReturnAStringAsFailed()" classname="com.soj.interfac.simple.BikeTest" time="0.001"/>
+  <testcase name="toStringReturnAString()" classname="com.soj.interfac.simple.BikeTest" time="0.001"/>
+  <testcase name="testOfBikespeedIncreament()" classname="com.soj.interfac.simple.BikeTest" time="0.0"/>
+  <testcase name="testOfBikespeedDecreament()" classname="com.soj.interfac.simple.BikeTest" time="0.001"/>
+  <testcase name="testOfBikeInChangingGear()" classname="com.soj.interfac.simple.BikeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

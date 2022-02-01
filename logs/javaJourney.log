@@ -1,0 +1,12 @@
+ INFO [main] 2022-01-31T21:15:29,582  (line ) simple interface
+DEBUG [main] 2022-01-31T21:15:29,584  (line ) The bike present state :
+DEBUG [main] 2022-01-31T21:15:29,584  (line ) speed : 1, gear : 1
+DEBUG [main] 2022-01-31T21:15:29,585  (line ) The bicycle present state :
+DEBUG [main] 2022-01-31T21:15:29,585  (line ) speed : 2, gear : 2
+ INFO [main] 2022-01-31T21:15:29,585  (line ) ........................
+ INFO [main] 2022-01-31T21:15:29,585  (line ) multiple interface
+ INFO [main] 2022-01-31T21:15:29,585  (line ) Animal is eating
+ INFO [main] 2022-01-31T21:15:29,585  (line ) Animal is travelling
+ INFO [main] 2022-01-31T21:15:29,585  (line ) .......................
+DEBUG [main] 2022-01-31T21:15:29,585  (line ) square is drawn
+DEBUG [main] 2022-01-31T21:15:29,586  (line ) 27

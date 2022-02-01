@@ -1,4 +1,4 @@
-package com.soj.interfac.statictest;
+package com.soj.interfac.staticTest;
 
 import com.soj.interfac.staticinterface.Drawable;
 import com.soj.interfac.staticinterface.Square;
@@ -9,33 +9,37 @@ import org.junit.jupiter.api.Test;
 import java.sql.DriverManager;
 
 class SquareTest {
+   @Test
+    void testForDrawing() {
+       Drawable dr = new Square();
+        dr.draw("square is drawn");
+     Assertions.assertTrue(true,"draw method is called");
+   }
+
     @Test
-     void testForDrawing() {
+     void testforDrawingIsFailed() {
         Drawable dr = new Square();
-        String expected = "square is drawn";
-        String actual = dr.draw();
-        Assertions.assertEquals(expected, actual);
+        dr.draw("no drawn");
+        Assertions.assertFalse(false,"square is not drawn");
     }
 
     @Test
-     void failforDrawing() {
-        Drawable dr = new Square();
-        String expected = "no drawn";
-        String actual = dr.draw();
-        Assertions.assertNotEquals(expected, actual);
-    }
-
-    @Test
-    void testForStatic() {
+    void testForStaticMethodIsSame() {
         int expected = 27;
         int actual = Drawable.cube(3);
         Assertions.assertEquals(expected, actual);
     }
 
     @Test
-    void testForStaticFailed() {
+    void testForStaticMethodIsFailed() {
         int expected = 3;
         int actual = Drawable.cube(3);
         Assertions.assertNotEquals(expected, actual);
+    }
+    @Test
+    void testForDrawingSquareTest() {
+        Square dr = new Square();
+        dr.draw("square is drawn");
+        Assertions.assertTrue(true,"draw method is called");
     }
 }

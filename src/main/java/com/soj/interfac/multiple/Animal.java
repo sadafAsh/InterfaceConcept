@@ -1,13 +1,20 @@
 package com.soj.interfac.multiple;
 
-public class Animal implements Dog, Cat {
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+
+
+public class Animal implements AnimalEat, AnimalTravel {
+
+    static final Logger logger = LogManager.getLogger(Animal.class.getName());
+
     @Override
-    public String animalpet() {
-        return "animal is the pet animal";
+    public String eat(String eat) {
+        return eat;
     }
 
     @Override
-    public String generalBehaviour() {
-        return "animal is very friendly";
+    public String travel(String travel) {
+        return travel;
     }
 }

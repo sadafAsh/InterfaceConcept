@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.soj.interfac.statictest.SquareTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-28T16:43:39" hostname="DESKTOP-H3C67DB" time="0.003">
+<testsuite name="com.soj.interfac.staticTest.SquareTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-02-01T13:25:48" hostname="DESKTOP-H3C67DB" time="0.005">
   <properties/>
-  <testcase name="testForDrawing()" classname="com.soj.interfac.statictest.SquareTest" time="0.001"/>
-  <testcase name="failforDrawing()" classname="com.soj.interfac.statictest.SquareTest" time="0.0"/>
-  <testcase name="testForStaticFailed()" classname="com.soj.interfac.statictest.SquareTest" time="0.001"/>
-  <testcase name="testForStatic()" classname="com.soj.interfac.statictest.SquareTest" time="0.0"/>
+  <testcase name="testForDrawing()" classname="com.soj.interfac.staticTest.SquareTest" time="0.001"/>
+  <testcase name="testForDrawingSquareTest()" classname="com.soj.interfac.staticTest.SquareTest" time="0.001"/>
+  <testcase name="testForStaticMethodIsSame()" classname="com.soj.interfac.staticTest.SquareTest" time="0.001"/>
+  <testcase name="testForStaticMethodIsFailed()" classname="com.soj.interfac.staticTest.SquareTest" time="0.001"/>
+  <testcase name="testforDrawingIsFailed()" classname="com.soj.interfac.staticTest.SquareTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
