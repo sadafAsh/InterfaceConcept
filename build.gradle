@@ -31,6 +31,18 @@ tasks.withType(Test) {
     test.finalizedBy jacocoTestReport
     tasks.named('sonarqube').configure {
         dependsOn test
+
+    }
+    jacocoTestReport {
+        dependsOn test // tests are required to run before generating the report
+
+        afterEvaluate {
+            classDirectories.setFrom(files(classDirectories.files.collect {
+                fileTree(dir: it, exclude: [
+                        "com/soj/**/Main.*"
+                ])
+            }))
+        }
     }
 
     sonarqube {
@@ -38,7 +50,7 @@ tasks.withType(Test) {
             property 'sonar.host.url', 'http://localhost:9000'
             property 'sonar.login', '8d4f8818e76c4f0744c9ad0ec5422d00c133bd44'
             property 'sonar.projectKey', 'Interface'
-            property 'sonar.coverage.exclusions', '**/test/**, Main.java'
+            property 'sonar.coverage.exclusions', '**/Main.*'
         }
 
 
@@ -51,7 +63,7 @@ tasks.withType(Test) {
             compile group: 'org.apache.logging.log4j', name: 'log4j-slf4j-impl', version: '2.4.1'
             // https://mvnrepository.com/artifact/com.lmax/disruptor
             implementation group: 'com.lmax', name: 'disruptor', version: '3.+'
-//        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:3.3"
+
 
         }
 

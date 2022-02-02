@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.soj.interfac.simple.BicycleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-02-01T13:25:48" hostname="DESKTOP-H3C67DB" time="0.008">
+<testsuite name="com.soj.interfac.simple.BicycleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-02-01T18:46:19" hostname="DESKTOP-H3C67DB" time="0.006">
   <properties/>
-  <testcase name="testOfBicycleSpeedDecreament()" classname="com.soj.interfac.simple.BicycleTest" time="0.002"/>
+  <testcase name="testOfBicycleSpeedDecreament()" classname="com.soj.interfac.simple.BicycleTest" time="0.001"/>
   <testcase name="testOfBicyclespeedIncreament()" classname="com.soj.interfac.simple.BicycleTest" time="0.001"/>
-  <testcase name="toStringReturnAStringAsFailed()" classname="com.soj.interfac.simple.BicycleTest" time="0.001"/>
-  <testcase name="toStringReturnAString()" classname="com.soj.interfac.simple.BicycleTest" time="0.0"/>
+  <testcase name="toStringReturnAStringAsFailed()" classname="com.soj.interfac.simple.BicycleTest" time="0.002"/>
+  <testcase name="toStringReturnAString()" classname="com.soj.interfac.simple.BicycleTest" time="0.001"/>
   <testcase name="testOfBicycleInChangingGear()" classname="com.soj.interfac.simple.BicycleTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

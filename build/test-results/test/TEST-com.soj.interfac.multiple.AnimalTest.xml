@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.soj.interfac.multiple.AnimalTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-02-01T13:25:47" hostname="DESKTOP-H3C67DB" time="0.591">
+<testsuite name="com.soj.interfac.multiple.AnimalTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-02-01T18:46:19" hostname="DESKTOP-H3C67DB" time="0.486">
   <properties/>
-  <testcase name="testForTravelling()" classname="com.soj.interfac.multiple.AnimalTest" time="0.588"/>
+  <testcase name="testForTravelling()" classname="com.soj.interfac.multiple.AnimalTest" time="0.483"/>
   <testcase name="testForEatingByAnimal()" classname="com.soj.interfac.multiple.AnimalTest" time="0.0"/>
   <testcase name="testForTravellingByAnimal()" classname="com.soj.interfac.multiple.AnimalTest" time="0.0"/>
   <testcase name="testForEating()" classname="com.soj.interfac.multiple.AnimalTest" time="0.0"/>
