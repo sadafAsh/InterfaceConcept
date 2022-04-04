@@ -30,7 +30,13 @@ keyword 'static'.Static method cannot be overridden in Implementation classes.To
 
 JunitTest:
      There is Junit Test for all the type of interfaces and test coverage in jacoco report is 100% 
-successfull.
+successful in jacoco report.
+
+       
+  SONARQUBE :
+          In sonarqube,reliability ,security , securityReview and maintainability is A and 
+the code coverage is 100%. 
+
 
 SONARQUBE 
 
